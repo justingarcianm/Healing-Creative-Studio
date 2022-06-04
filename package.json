@@ -4,7 +4,8 @@
     "next": "^12.1.6",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "styled-theming": "^2.2.0"
   },
   "name": "healingcreativestudio",
   "version": "1.0.0",
@@ -12,7 +13,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "prettier": "prettier --write ."
   },
   "keywords": [],
   "author": "",
