@@ -1,5 +1,5 @@
 export default function Fonts() {
-    <style jsx global>{`
+  <style jsx global>{`
     code goes here
     `}</style>
 }
